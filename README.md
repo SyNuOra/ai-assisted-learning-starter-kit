@@ -4,7 +4,7 @@ A reusable starter kit for creating learner-centered, adaptive learning projects
 
 **Current Starter Kit version:** v0.3
 
-You can read about [my journey her](https://synuora.hashnode.dev/living-with-ai-building-my-personal-learning-assistant)
+You can read about [my journey here](https://synuora.hashnode.dev/living-with-ai-building-my-personal-learning-assistant)
 ## Purpose
 
 The Starter Kit helps a ChatGPT Project operate as an individual learning environment rather than a static course. It is subject-neutral: curricula are created within the framework, not built into it.
